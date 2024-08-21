@@ -1,7 +1,3 @@
-Certainly! Below is a sample README file for your "Endangered Animal System" project.
-
----
-
 # Endangered Animal System
 
 ## Overview
@@ -102,7 +98,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any questions, issues, or suggestions, please contact [your email] or open an issue in the repository.
-
----
-
-This README provides a comprehensive guide for setting up, using, and contributing to the Endangered Animal System project. Adjust the details as needed based on your specific project setup.
